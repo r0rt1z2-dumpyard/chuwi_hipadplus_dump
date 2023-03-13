@@ -1,0 +1,19 @@
+## full_tb8788p1_64_wifi-user 11 RP1A.200720.011 1632966161 release-keys
+- Manufacturer: chuwi
+- Platform: mt6771
+- Codename: HiPadPlus
+- Brand: CHUWI
+- Flavor: full_tb8788p1_64_wifi-user
+- Release Version: 11
+- Kernel Version: 4.14.186
+- Id: RP1A.200720.011
+- Incremental: 1632966161
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: CHUWI/HiPadPlus_11_EEA/HiPadPlus:11/RP1A.200720.011/1632966161:user/release-keys
+- OTA version: 
+- Branch: full_tb8788p1_64_wifi-user-11-RP1A.200720.011-1632966161-release-keys
+- Repo: chuwi_hipadplus_dump
