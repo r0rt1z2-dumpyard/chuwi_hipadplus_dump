@@ -1,0 +1,14 @@
+on post-fs-data
+
+    chmod 0660 /dev/mxc4005xc
+    chown system system /dev/mxc4005xc
+
+    chmod 0777 /vendor/bin/memsicp
+    chown root root /vendor/bin/memsicp
+
+service memsicp /vendor/bin/memsicp
+    oneshot    
+    user system
+    group system
+    class main	
+

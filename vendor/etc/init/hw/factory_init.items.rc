@@ -1,0 +1,2 @@
+on init
+	chmod 0666 /dev/items

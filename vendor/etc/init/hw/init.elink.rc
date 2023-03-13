@@ -1,0 +1,6 @@
+import /vendor/etc/init/hw/init.sensors.rc
+import /vendor/etc/init/hw/init.items.rc
+
+import /vendor/etc/init/hw/init.fpsensor.rc
+import /vendor/etc/init/hw/init.nfc.rc
+import /vendor/etc/init/hw/init.common.rc

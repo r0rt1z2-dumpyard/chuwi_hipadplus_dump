@@ -1,0 +1,4 @@
+libOpenCL.so
+libnir_neon_driver_ndk.mtk.so
+libcmdl_ndk.mtk.so
+libarmnn_ndk.mtk.so

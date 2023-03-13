@@ -1,0 +1,4 @@
+on init
+	chmod 0660 /dev/items
+	chown system system /dev/items
+	chmod 0444 /proc/cmdline

@@ -1,0 +1,8 @@
+on post-fs-data
+    chown system system /sys/devices/platform/odm/odm:misc/boot_completed
+    chmod 0660 /sys/devices/platform/odm/odm:misc/boot_completed
+
+on boot
+on property:sys.boot_completed=1
+    write sys/devices/platform/odm/odm:misc/boot_completed 1
+
