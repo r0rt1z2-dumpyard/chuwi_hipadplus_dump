@@ -1,0 +1,18 @@
+{
+    "default_enable":1,
+    "default_effective_interval":3000000000,
+    "default_touch2latch_interval":100000000,
+    "apply_surfaceview_only":0,
+    "default_display_idle_time_interval":1000000000,
+    "surface_list":
+    [
+        {
+            "name":"StatusBar",
+            "enable":0
+        },
+        {
+            "name":"NavigationBar",
+            "enable":0
+        }
+    ]
+}

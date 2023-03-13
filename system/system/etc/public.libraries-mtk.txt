@@ -1,0 +1,7 @@
+libapuwareapusys.mtk.so
+libapuwarexrp.mtk.so
+libvpuapi.mtk.so
+libapuwareutils.mtk.so
+libneuron_opencv_delegate.mtk.so
+libneuronusdk_adapter.mtk.so
+libtflite_mtk.mtk.so
